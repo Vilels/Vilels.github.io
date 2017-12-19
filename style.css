@@ -1,6 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
-/*Palete de cores #FFFFFA; #E6EED6; #333333; #172121; #618279;*/
+/*Palete de cores #FFFFFA; #d9d9d5; #333333; #172121; #618279;*/
 
 html {
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -35,7 +35,7 @@ html body{
 
 .menu a:hover{
 	background-color:#172121;
-	color:#E6EED6;
+	color:#d9d9d5;
 }
 
 .menu .iconMenu{
@@ -195,7 +195,7 @@ html body{
 	width:100%;
 	height:500px;
 	padding-top:1px;
-	background-color:#E6EED6;
+	background-color:#d9d9d5;
 }
 
 .web h1{
@@ -654,7 +654,7 @@ html body{
 
 .video{
 	width:100%;
-	background-color:#E6EED6;
+	background-color:#d9d9d5;
 	padding-top:1px;
 	padding-bottom:1px;
 	height:550px;
@@ -855,7 +855,7 @@ html body{
 
 .anotherTools{
 	width:100%;
-	background-color:#E6EED6;
+	background-color:#d9d9d5;
 	padding-bottom:5px;
 }
 
@@ -1063,16 +1063,5 @@ html body{
 @media only screen and (max-width: 500px){
 	.tooltipImgFirst img{
 		width:40px;
-	}
-}
-
-@media only screen and (max-width: 725px){
-	.web{
-		height:600px;
-		margin-bottom:100px;
-	}
-	
-	.editText p{
-		color:red;
 	}
 }
