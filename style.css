@@ -189,8 +189,7 @@ html body{
 
 /*Web Div*/
 
-#web{
-}
+
 	
 .web{
 	width:100%;
@@ -265,11 +264,7 @@ html body{
 	}
 }
 
-@media only screen and (max-width: 681px){
-	.web{
-		height:600px;
-	}
-}
+
 
 @media only screen and (max-width: 584px){
 	.web h1 {
@@ -1066,5 +1061,12 @@ html body{
 @media only screen and (max-width: 500px){
 	.tooltipImgFirst img{
 		width:40px;
+	}
+}
+
+@media only screen and (max-width: 750px){
+	.web{
+		height:600px;
+		margin-bottom:100px;
 	}
 }
