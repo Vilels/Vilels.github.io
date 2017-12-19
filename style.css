@@ -233,9 +233,9 @@ html body{
 
 .editText{
 	width:75%;
-	float:right;
+	/*float:right;
 	position:relative;
-	bottom:150px;
+	bottom:150px;*/
 }
 
 .imgEdit{
