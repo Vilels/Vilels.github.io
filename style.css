@@ -233,8 +233,7 @@ html body{
 
 .editText{
 	width:75%;
-	/*float:right; */
-	padding-left:20%;
+	float:right;
 	position:relative;
 	bottom:150px;
 }
