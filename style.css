@@ -950,11 +950,26 @@ html body{
 .lastDiv h2{
 	color:#172121;
 	padding-top:20px;
+	font-size:19px;
 }
 
 .lastDiv h3{
 	color:#172121;
 	padding-bottom:20px;
+	padding-top:20px;
+	font-size:18px;
+	width:100%;
+}
+
+.imgLinkedin{
+	margin-left:46%;
+	padding-top:5px;
+	padding-bottom:50px;
+	opacity:0.7;
+}
+
+.imgLinkedin:hover{
+	opacity:1;
 }
 
 @media only screen and (max-width: 1200px){
